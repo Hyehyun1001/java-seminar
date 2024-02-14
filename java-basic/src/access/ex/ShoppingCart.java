@@ -13,7 +13,6 @@ public class ShoppingCart {
         items[itemCount] = item;
         itemCount++;
     }
-
     public void displayItems() {
         System.out.println("장바구니 상품 출력");
         for (int i = 0; i < itemCount; i++) {
