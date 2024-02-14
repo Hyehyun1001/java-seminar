@@ -1,2 +1,4 @@
-package pack.a;public class User2 {
+package pack.a;
+
+public class User2 {
 }
